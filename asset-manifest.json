@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/vr-personal-portfolio-frontend/static/css/main.7c54961a.chunk.css",
-    "main.js": "/vr-personal-portfolio-frontend/static/js/main.91684ff8.chunk.js",
-    "main.js.map": "/vr-personal-portfolio-frontend/static/js/main.91684ff8.chunk.js.map",
-    "runtime-main.js": "/vr-personal-portfolio-frontend/static/js/runtime-main.0426dd2a.js",
-    "runtime-main.js.map": "/vr-personal-portfolio-frontend/static/js/runtime-main.0426dd2a.js.map",
+    "main.js": "/vr-personal-portfolio-frontend/static/js/main.158c0cb4.chunk.js",
+    "main.js.map": "/vr-personal-portfolio-frontend/static/js/main.158c0cb4.chunk.js.map",
+    "runtime-main.js": "/vr-personal-portfolio-frontend/static/js/runtime-main.6ee31e4b.js",
+    "runtime-main.js.map": "/vr-personal-portfolio-frontend/static/js/runtime-main.6ee31e4b.js.map",
     "static/css/2.c0e8d3f0.chunk.css": "/vr-personal-portfolio-frontend/static/css/2.c0e8d3f0.chunk.css",
-    "static/js/2.2cc8f0a5.chunk.js": "/vr-personal-portfolio-frontend/static/js/2.2cc8f0a5.chunk.js",
-    "static/js/2.2cc8f0a5.chunk.js.map": "/vr-personal-portfolio-frontend/static/js/2.2cc8f0a5.chunk.js.map",
+    "static/js/2.dcf88b9f.chunk.js": "/vr-personal-portfolio-frontend/static/js/2.dcf88b9f.chunk.js",
+    "static/js/2.dcf88b9f.chunk.js.map": "/vr-personal-portfolio-frontend/static/js/2.dcf88b9f.chunk.js.map",
     "static/css/3.0e55c48c.chunk.css": "/vr-personal-portfolio-frontend/static/css/3.0e55c48c.chunk.css",
-    "static/js/3.68b539cb.chunk.js": "/vr-personal-portfolio-frontend/static/js/3.68b539cb.chunk.js",
-    "static/js/3.68b539cb.chunk.js.map": "/vr-personal-portfolio-frontend/static/js/3.68b539cb.chunk.js.map",
+    "static/js/3.894be8f2.chunk.js": "/vr-personal-portfolio-frontend/static/js/3.894be8f2.chunk.js",
+    "static/js/3.894be8f2.chunk.js.map": "/vr-personal-portfolio-frontend/static/js/3.894be8f2.chunk.js.map",
     "index.html": "/vr-personal-portfolio-frontend/index.html",
     "static/css/2.c0e8d3f0.chunk.css.map": "/vr-personal-portfolio-frontend/static/css/2.c0e8d3f0.chunk.css.map",
     "static/css/3.0e55c48c.chunk.css.map": "/vr-personal-portfolio-frontend/static/css/3.0e55c48c.chunk.css.map",
     "static/css/main.7c54961a.chunk.css.map": "/vr-personal-portfolio-frontend/static/css/main.7c54961a.chunk.css.map",
-    "static/js/2.2cc8f0a5.chunk.js.LICENSE.txt": "/vr-personal-portfolio-frontend/static/js/2.2cc8f0a5.chunk.js.LICENSE.txt",
+    "static/js/2.dcf88b9f.chunk.js.LICENSE.txt": "/vr-personal-portfolio-frontend/static/js/2.dcf88b9f.chunk.js.LICENSE.txt",
     "static/media/blender.9bfd4ce1.glb": "/vr-personal-portfolio-frontend/static/media/blender.9bfd4ce1.glb",
     "static/media/contact-form-video-10mb.d8340572.mp4": "/vr-personal-portfolio-frontend/static/media/contact-form-video-10mb.d8340572.mp4",
     "static/media/hand-model01.69bfef04.glb": "/vr-personal-portfolio-frontend/static/media/hand-model01.69bfef04.glb",
@@ -23,10 +23,10 @@
     "static/media/mouse01.fcd2f0df.glb": "/vr-personal-portfolio-frontend/static/media/mouse01.fcd2f0df.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.0426dd2a.js",
+    "static/js/runtime-main.6ee31e4b.js",
     "static/css/2.c0e8d3f0.chunk.css",
-    "static/js/2.2cc8f0a5.chunk.js",
+    "static/js/2.dcf88b9f.chunk.js",
     "static/css/main.7c54961a.chunk.css",
-    "static/js/main.91684ff8.chunk.js"
+    "static/js/main.158c0cb4.chunk.js"
   ]
 }
